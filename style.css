@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    /* background-color: #ccd7d2; */
+    background-image: url(pic1.jpg);
+}
+
+#home {
+    width: 400px;              
+    margin: 60px auto; 
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+#weatherBtn{
+    background-color: cornflowerblue;
+}
